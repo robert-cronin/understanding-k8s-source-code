@@ -8,6 +8,7 @@ Diving into the [Kubernetes source code](https://github.com/kubernetes/kubernete
 If you have a link that you think might help others to understand the Kubernetes source code, feel free to open a PR.
 
 ## List
+- https://github.com/kubernetes/community/tree/master/contributors/devel
 - https://kubernetes.feisky.xyz/community/index
 - https://arunprasad86.medium.com/want-to-understand-kubernetes-source-code-this-is-how-you-can-start-exploring-6eea25e50a69
 - https://developer.ibm.com/articles/a-tour-of-the-kubernetes-source-code/
@@ -16,3 +17,5 @@ If you have a link that you think might help others to understand the Kubernetes
 - https://www.infracloud.io/kubernetes-school/client-go-kubernetes/deep-dive-into-kubernetes-api-machinery/
 - https://github.com/techiescamp/kubernetes-learning-path
 - https://devopscube.com/kubernetes-architecture-explained/- https://developer.ibm.com/articles/a-tour-of-the-kubernetes-source-code/#compiling-and-running-kubernetes5
+- https://blog.risingstack.com/the-history-of-kubernetes/
+- https://calendar.google.com/calendar/u/0/embed?src=calendar@kubernetes.io&pli=1
